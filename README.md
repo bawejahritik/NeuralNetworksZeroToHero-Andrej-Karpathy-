@@ -1,1 +1,1 @@
-# NeuralNetworksZeroToHero-Andrej-Karpathy-
+# NeuralNetworksZeroToHero-Andrej-Karpathy
